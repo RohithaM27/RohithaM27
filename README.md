@@ -28,6 +28,9 @@ I’m deeply engaged in understanding **market trends**, analyzing **customer se
 
 ## 📌 Recent Projects
 
+🤖 ML Foundation Course – AI Studio Project 
+Completed an end-to-end machine learning project.Implemented a supervised learning model to predict Airbnb prices in NYC, demonstrating the complete machine learning lifecycle from data exploration to model deployment and evaluation.
+
 🔍 Product Feature Impact Dashboard  
 Analyzed user feedback and engagement metrics to identify high-impact feature enhancements. Created an interactive dashboard to guide future product iterations.
 
