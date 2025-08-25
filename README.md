@@ -18,7 +18,7 @@ My major has allowed me to strengthen my foundation in data analytics, sharpenin
 ## 🛠️ Key Skills
 
 - 📊 Data Analytics(Exploratory Analysis, Dashboarding, Data Storytelling)
-- - 📐 Data Visualization (Tableau, Excel)  
+- 📐 Data Visualization (Tableau, Excel)  
 - 🎯 Product Strategy & Roadmapping 
 - 🤝 Stakeholder Collaboration & Client Communication
 - 📈 Market & User Research
