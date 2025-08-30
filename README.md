@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rohitha!
 
 🎓 Honors College Student at George Mason University  
-📍 Data Science - Marketing - Prduct
+📍 Data Science - Marketing - Product
 🌐 [LinkedIn](https://www.linkedin.com/in/rohithamatwada/) | [Blog](https://exploringwriter.medium.com)
 
 ---
@@ -29,17 +29,16 @@ My major has allowed me to strengthen my foundation in data analytics, sharpenin
 
 ## 📌 Recent Projects
 
-🤖 ML Foundation Course – AI Studio Project 
-Completed an end-to-end machine learning project.Implemented a supervised learning model to predict Airbnb prices in NYC, demonstrating the complete machine learning lifecycle from data exploration to model deployment and evaluation.
+🤖 ML Foundation Course – AI Studio Project (Break Through Tech)
+Completed an end-to-end machine learning projec. Built a supervised ML model to predict Airbnb prices in NYC, covering the full pipeline from data cleaning and feature engineering to model evaluation and deployment.
 
-🔍 Product Feature Impact Dashboard  
-Analyzed user feedback and engagement metrics to identify high-impact feature enhancements. Created an interactive dashboard to guide future product iterations.
 
-💬 Customer Sentiment Analysis 
-Used natural language processing to uncover trends in customer reviews, driving updates in the product roadmap for improved user satisfaction.
+🎧 Externship – Beats by Dre Consumer Insights
+Analyzed 1,000+ customer reviews using Python and NLP (TextBlob, NLTK, Gemini AI). Achieved 90% accuracy in sentiment analysis and delivered insights that improved product development strategies by 15%.
 
-📊 Market Trends Report
-Researched competitive landscapes and synthesized data to help shape product positioning and campaign strategy.
+
+🛒 Customer Segmentation in E-Commerce
+Applied KNN clustering and RFM modeling to segment customers by recency, frequency, and monetary value. Provided insights to boost retention, re-engagement, and growth strategies for e-commerce businesses.
 
 ---
 
