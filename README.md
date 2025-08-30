@@ -47,6 +47,4 @@ Applied KNN clustering and RFM modeling to segment customers by recency, frequen
 💼 **LinkedIn**: [linkedin.com/in/rohithamatwada](https://www.linkedin.com/in/rohithamatwada/)  
 📬 **Email**: rohithamatwada@gmail.com
 
----
 
-✨ 
