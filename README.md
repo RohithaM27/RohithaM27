@@ -29,7 +29,7 @@ My major has allowed me to strengthen my foundation in data analytics, sharpenin
 
 ## 📌 Recent Projects
 
-🤖 ML Foundation Course – AI Studio Project (Break Through Tech)
+🤖 End to End Machine Learning Project (Break Through Tech - AI studio Program)
 Completed an end-to-end machine learning projec. Built a supervised ML model to predict Airbnb prices in NYC, covering the full pipeline from data cleaning and feature engineering to model evaluation and deployment.
 
 
