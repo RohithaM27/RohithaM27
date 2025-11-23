@@ -19,15 +19,19 @@ My major has allowed me to strengthen my foundation in data analytics, sharpenin
 
 ---
 
-## 🛠️ Key Skills
-
-- 📊 Data Analytics(Exploratory Analysis, Dashboarding, Data Storytelling)
-- 📐 Data Visualization (Tableau, Excel)  
-- 🎯 Product Strategy & Roadmapping 
-- 🤝 Stakeholder Collaboration & Client Communication
-- 📈 Market & User Research
-- 🧠 Customer Insight & Sentiment Analysis
-- 📝 Analytical & Creative Problem-Solving
+## 🛠️ Tech Stack
+📊 Data Analytics / Reporting:
+Python · SQL · Excel · Power BI · Tableau · Jupyter Notebook
+📐 Data Visualization:
+Tableau · Excel Charts · Matplotlib · Seaborn · Plotly
+🎯 Product Strategy:
+Market Analysis · Product Roadmapping · Feature Prioritization · OKRs / KPIs · User Story Mapping
+🤝 Stakeholder Collaboration / Client Communication:
+Cross-functional Teamwork · Client Presentations · Meeting Facilitation · Documentation (Notion / Confluence) · Agile Tools (Jira / Trello)
+📈 Market Research:
+Survey Design · Competitor Benchmarking · Trend Analysis · Data-driven Insights · Consumer Behavior Analysis
+🧠 Consumer & Audience Insights:
+Customer Segmentation · Sentiment Analysis · Behavioral Analytics · Data Interpretation · UX / UI Research Insights
 
 ---
 
