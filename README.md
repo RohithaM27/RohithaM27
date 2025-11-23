@@ -31,7 +31,7 @@ My major has allowed me to strengthen my foundation in data analytics, sharpenin
 
 ---
 
-# Rohitha Matwada – Data Science & Analytics Projects
+# 🚀 Key Projects
 
 ## 📊 Labor Market Forecasting | Break Through Tech – AI Studio
 **Project Overview:**  
