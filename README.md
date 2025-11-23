@@ -18,20 +18,16 @@ Hi, I'm an Honors College student at George Mason University with a strong inter
 My major has allowed me to strengthen my foundation in data analytics, sharpening my ability to collect, analyze, and visualize data to better understand business challenges. By leveraging these skills, I focus on drawing insights that support data-driven product decisions and lead to effective, user-centered solutions. My background blends product strategy, cross-functional collaboration, customer engagement, and market research with data analytics. I specialize in turning complex data into clear, actionable insights that drive business decisions and elevate product outcomes.
 
 ---
+## 🛠️ Key Skills
 
-## 🛠️ Tech Stack
-📊 Data Analytics / Reporting:
-Python · SQL · Excel · Power BI · Tableau · Jupyter Notebook
-📐 Data Visualization:
-Tableau · Excel Charts · Matplotlib · Seaborn · Plotly
-🎯 Product Strategy:
-Market Analysis · Product Roadmapping · Feature Prioritization · OKRs / KPIs · User Story Mapping
-🤝 Stakeholder Collaboration / Client Communication:
-Cross-functional Teamwork · Client Presentations · Meeting Facilitation · Documentation (Notion / Confluence) · Agile Tools (Jira / Trello)
-📈 Market Research:
-Survey Design · Competitor Benchmarking · Trend Analysis · Data-driven Insights · Consumer Behavior Analysis
-🧠 Consumer & Audience Insights:
-Customer Segmentation · Sentiment Analysis · Behavioral Analytics · Data Interpretation · UX / UI Research Insights
+- 📊 Data Analytics(Python, R)
+- 🤖 Modeling (Machine Learning)
+- 📐 Data Visualization (Tableau, Excel)  
+- 🎯 Product Strategy 
+- 🤝 Stakeholder Collaboration & Client Communication
+- 📈 Market & Research
+- 🧠 Customer & Audience Insights
+- 📝 Strategic Problem-Solving
 
 ---
 
