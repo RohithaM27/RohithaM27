@@ -25,7 +25,7 @@ My major has allowed me to strengthen my foundation in data analytics, sharpenin
 - 📐 Data Visualization (Tableau, Excel)  
 - 🎯 Product Strategy 
 - 🤝 Stakeholder Collaboration & Client Communication
-- 📈 Market & Research
+- 📈 Market Research
 - 🧠 Customer & Audience Insights
 - 📝 Strategic Problem-Solving
 
