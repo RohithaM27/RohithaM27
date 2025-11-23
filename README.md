@@ -1,8 +1,11 @@
 # 👋 Hi there, I'm Rohitha!
 
 🎓 Honors College Student at George Mason University  
+
 📍 Data Science - Marketing - Product
+
 🌐 [LinkedIn](https://www.linkedin.com/in/rohithamatwada/) | [Blog](https://exploringwriter.medium.com)
+
 🧭 Interest Domains: Media and entertainment | PR and advertising | Fashion
 
 ---
