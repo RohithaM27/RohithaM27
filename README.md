@@ -2,11 +2,11 @@
 
 🎓 Honors College Student at George Mason University  
 
-📍 Data Science - Marketing - Product
+🎯 Data Analytics - Marketing - Product
 
 🌐 [LinkedIn](https://www.linkedin.com/in/rohithamatwada/) | [Blog](https://exploringwriter.medium.com)
 
-🧭 Interest Domains: Media and entertainment | PR and advertising | Fashion
+📍 Interest Domains: Media and entertainment | PR and advertising | Fashion
 
 ---
 
