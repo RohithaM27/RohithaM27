@@ -31,18 +31,65 @@ My major has allowed me to strengthen my foundation in data analytics, sharpenin
 
 ---
 
-## 📌 Recent Projects
+# Rohitha Matwada – Data Science & Analytics Projects
 
-🤖 End to End Machine Learning Project (Break Through Tech - AI studio Program)
-Completed an end-to-end machine learning projec. Built a supervised ML model to predict Airbnb prices in NYC, covering the full pipeline from data cleaning and feature engineering to model evaluation and deployment.
+## 📊 Labor Market Forecasting | Break Through Tech – AI Studio
+**Project Overview:**  
+Analyzed 10,000+ labor market records to build forecasting models, uncover workforce trends, and support Swytch’s AI-powered platform.
 
+**Key Contributions:**  
+- Preprocessed and cleaned large datasets to ensure accuracy in predictive modeling.  
+- Built forecasting models and evaluated them using RMSE and MAPE metrics to optimize performance.  
+- Generated visualizations highlighting workforce trends and labor market patterns.  
+- Translated complex data into actionable insights for client decision-making.  
+- Strengthened client communication by presenting clear, data-driven narratives.
 
-🎧 Externship – Beats by Dre Consumer Insights
-Analyzed 1,000+ customer reviews using Python and NLP (TextBlob, NLTK, Gemini AI). Achieved 90% accuracy in sentiment analysis and delivered insights that improved product development strategies by 15%.
+**Technologies & Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, RMSE, MAPE  
+**Skills:** Data Cleaning, Forecasting Models, Trend Analysis, Data Visualization, Client Communication
 
+---
 
-🛒 Customer Segmentation in E-Commerce
-Applied KNN clustering and RFM modeling to segment customers by recency, frequency, and monetary value. Provided insights to boost retention, re-engagement, and growth strategies for e-commerce businesses.
+## 🤖 End-to-End Machine Learning Project | Break Through Tech – AI Studio
+**Project Overview:**  
+Built a supervised machine learning model to predict Airbnb prices in NYC, managing the full pipeline from data cleaning and feature engineering to model evaluation and deployment.
+
+**Key Contributions:**  
+- Processed and cleaned datasets, handling missing values and outliers.  
+- Conducted exploratory data analysis and created visualizations to uncover pricing trends.  
+- Developed regression models and evaluated performance using RMSE and MAPE metrics.  
+- Presented insights to support data-driven decisions for Swytch.
+
+**Technologies & Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, RMSE, MAPE  
+**Skills:** Data Cleaning, Feature Engineering, Regression Modeling, Data Visualization, Model Evaluation, Client Communication
+
+---
+
+## 🎧 Consumer Insights Data Analytics Externship | Beats by Dre
+**Project Overview:**  
+Conducted sentiment analysis on customer reviews to evaluate brand perception and product quality against competitors.
+
+**Key Contributions:**  
+- Collected and processed 1,000+ customer reviews for NLP analysis.  
+- Applied TextBlob, NLTK, and Gemini AI to classify sentiment with 90% accuracy.  
+- Built visualizations highlighting trends in consumer sentiment for product strategy.  
+- Delivered actionable insights supporting marketing and brand positioning.
+
+**Technologies & Tools:** Python, NLTK, TextBlob, Gemini AI, Pandas, Matplotlib, Excel  
+**Skills:** Sentiment Analysis, NLP, Data Cleaning, Data Visualization, Consumer Insights, Strategic Recommendations
+
+---
+
+## 🛒 Customer Segmentation in E-Commerce
+**Project Overview:**  
+Used clustering techniques and RFM analysis to segment customers by purchasing behavior and optimize retention strategies.
+
+**Key Contributions:**  
+- Applied K-Nearest Neighbors clustering to segment customers based on recency, frequency, and monetary value.  
+- Provided insights for retention campaigns and growth strategies.  
+- Visualized customer segments to support marketing decisions.
+
+**Technologies & Tools:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Excel  
+**Skills:** Customer Segmentation, KNN Clustering, RFM Analysis, Data Visualization, Retention Strategy, Growth Insights
 
 ---
 
