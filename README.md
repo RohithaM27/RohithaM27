@@ -6,7 +6,7 @@
 
 🌐 [LinkedIn](https://www.linkedin.com/in/rohithamatwada/) | [Blog](https://exploringwriter.medium.com)
 
-📍 Interested Domains: News, Media & Entertainment | PR & Advertising | Fashion 
+📍 Interested Domains: News, Media & Entertainment | PR & Advertising | Fashion & Beauty
 
 ---
 
